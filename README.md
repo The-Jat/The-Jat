@@ -101,3 +101,9 @@ Fun Fact: I am from Haryana (IN)!
 </p>
 
 If you have any inquiries, please don't hesitate to connect with me via [e-mail](mailto:manishkl543@gmail.com).
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-jat&show_icons=true&locale=en&layout=compact" alt="the-jat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&locale=en" alt="the-jat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-jat&" alt="the-jat" /></p>
