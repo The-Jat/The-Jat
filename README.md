@@ -7,28 +7,15 @@
 <!-- Profile Views Addins -->
 <img src="https://komarev.com/ghpvc/?username=the-jat&label=Profile%20views&color=0e75b6&style=flat" alt="the-jat"/>
 
-<p>
+<p align="center">
     <em>
-        Software Engineer
+        <strong>Software Engineer</strong>
 <!--         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
     </em>
 </p>
 
-<!--
-**The-Jat/The-Jat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Binary gif -->
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2Z3NoeHluNGxmZnk2dzRqeGVhYTJpczhiOHAwcGFsaTM2aDFvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="230" alt="Banner">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2Z3NoeHluNGxmZnk2dzRqeGVhYTJpczhiOHAwcGFsaTM2aDFvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="230" height="200" alt="Banner">
 
 - 🔭 I’m currently working on [TheTaaJ](https://github.com/The-Jat/TheTaaJ)
 - 🌱 I’m currently learning **OS Development**
@@ -37,9 +24,8 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://thejat.in/resume](https://thejat.in/resume)
 - ⚡ Fun fact **I am from Haryana**
 
----
 
-<h3>Things I code with</h3>
+### 🚀 Technologies & Tools I Use
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -58,43 +44,43 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mine Introduction to the C++ Compiler...  
 
 ```c++
 #include <iostream>
 #include <vector>
-#include <unordered_map>
+
+using namespace std;
 
 class ManishChaudhary {
 public:
-    std::string name = "Manish Chaudhary";
-    std::string pronouns = "He | Him";
-    std::vector<std::string> code = {"C", "C++", "PHP", "Javascript"};
-    std::vector<std::string> askMeAbout = {"OS-Dev", "Web-Dev"};
-    std::vector<std::string> frameworks = {"Angular", "Laravel"};
-    std::string currentFocus = "Learning about ";
-    std::string funFact = "I am from Haryana (IN)!";
+    string name = "Manish Chaudhary";
+    vector<string> code = {"C", "C++", "Assembly", "PHP", "Javascript"};
+    vector<string> askMeAbout = {"OS-Dev", "Web-Dev"};
+    vector<string> frameworks = {"Angular", "Laravel"};
+    string currentFocus = "On learning on how os works";
+    string funFact = "I am from Haryana (IN)!";
 
     void printInfo() {
-        std::cout << "Name: "   << name << std::endl; 
-        std::cout << "Pronouns: " << pronouns << std::endl;
-        std::cout << "Code: ";
+        cout << "Name: "   << name << endl;
+        cout << "Code: ";
         printVector(code);
-        std::cout << "Ask Me About: ";
+        cout << "Ask Me About: ";
         printVector(askMeAbout);
-        std::cout << "Frameworks: ";
+        cout << "Frameworks: ";
         printVector(frameworks);
-        std::cout << "Current Focus: " << currentFocus << std::endl;
-        std::cout << "Fun Fact: " << funFact << std::endl;
+        cout << "Current Focus: " << currentFocus << endl;
+        cout << "Fun Fact: " << funFact << endl;
     }
 
 private:
     template<typename T>
-    void printVector(const std::vector<T>& vec) {
+    void printVector(const vector<T>& vec) {
         for (const auto& item : vec) {
-            std::cout << item << " ";
+            cout << item << " ";
         }
-        std::cout << std::endl;
+        cout << endl;
     }
 
 };
@@ -107,23 +93,22 @@ int main() {
 
 // Output
 Name: Manish Chaudhary
-Pronouns: He | Him
-Code: C C++ PHP Javascript 
+Code: C C++ Assembly PHP Javascript 
 Ask Me About: OS-Dev Web-Dev 
 Frameworks: Angular Laravel 
-Current Focus: Learning about 
+Current Focus: On learning on how os works
 Fun Fact: I am from Haryana (IN)!
 ```
 
+### Github Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-jat&show_icons=true&locale=en&layout=compact" alt="the-jat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&locale=en" alt="the-jat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-jat&" alt="the-jat" /></p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/The-Jat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manish-kala-46a845139" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 If you have any inquiries, please don't hesitate to connect with me via [e-mail](mailto:manishkl543@gmail.com).
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-jat&show_icons=true&locale=en&layout=compact" alt="the-jat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&locale=en" alt="the-jat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-jat&" alt="the-jat" /></p>
