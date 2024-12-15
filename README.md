@@ -1,14 +1,22 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-jat&label=Profile%20views&color=0e75b6&style=flat" alt="the-jat" /> </p>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there 👋 नमस्ते (Namaste)🙏🏻, I'm Manish Chaudhary! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2Z3NoeHluNGxmZnk2dzRqeGVhYTJpczhiOHAwcGFsaTM2aDFvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="230">
-<p><em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    Hi there 👋 नमस्ते (Namaste)🙏🏻, I'm Manish Chaudhary!
+    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h2>
+
+<!-- Profile Views Addins -->
+<img src="https://komarev.com/ghpvc/?username=the-jat&label=Profile%20views&color=0e75b6&style=flat" alt="the-jat"/>
+
+<p>
+    <em>
+        Software Engineer
+<!--         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
+    </em>
+</p>
 
 <!--
 **The-Jat/The-Jat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,6 +26,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Binary gif -->
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2Z3NoeHluNGxmZnk2dzRqeGVhYTJpczhiOHAwcGFsaTM2aDFvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="230" alt="Banner">
+
+- 🔭 I’m currently working on [TheTaaJ](https://github.com/The-Jat/TheTaaJ)
+- 🌱 I’m currently learning **OS Development**
+- 📝 I regularly write articles on [www.thejat.in](www.thejat.in)
+- 📫 How to reach me **manishkl543@gmail.com**
+- 📄 Know about my experiences [https://thejat.in/resume](https://thejat.in/resume)
+- ⚡ Fun fact **I am from Haryana**
+
+---
 
 <h3>Things I code with</h3>
 
