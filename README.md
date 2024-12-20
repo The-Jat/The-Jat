@@ -59,7 +59,7 @@ public:
     vector<string> code = {"C", "C++", "Assembly", "PHP", "Javascript"};
     vector<string> askMeAbout = {"OS-Dev", "Web-Dev"};
     vector<string> frameworks = {"Angular", "Laravel"};
-    string currentFocus = "On learning on how os works";
+    string currentFocus = "On OS Development";
     string funFact = "I am from Haryana (IN)!";
 
     void printInfo() {
@@ -96,7 +96,7 @@ Name: Manish Chaudhary
 Code: C C++ Assembly PHP Javascript 
 Ask Me About: OS-Dev Web-Dev 
 Frameworks: Angular Laravel 
-Current Focus: On learning on how os works
+Current Focus: On OS Development
 Fun Fact: I am from Haryana (IN)!
 ```
 
