@@ -100,7 +100,7 @@ Current Focus: On OS Development
 Fun Fact: I am from Haryana (IN)!
 ```
 
-### Github Stats
+### 📊 Github Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-jat&show_icons=true&locale=en&layout=compact" alt="the-jat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&locale=en" alt="the-jat" /></p>
