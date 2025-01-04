@@ -1,6 +1,6 @@
 <h2>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-    Hi there 👋 नमस्ते (Namaste)🙏🏻, I'm Manish Chaudhary!
+    Hey there 👋, Manish Chaudhary here!
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
 
@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I am from Haryana**
 
 
-### 🚀 Technologies & Tools I Use
+### 💻 Technologies & Tools I Use
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -111,4 +111,4 @@ Fun Fact: I am from Haryana (IN)!
 <p><a href="https://github.com/The-Jat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manish-kala-46a845139" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-If you have any inquiries, please don't hesitate to connect with me via [e-mail](mailto:manishkl543@gmail.com).
+Got an exciting project, a collaboration idea, or just want to say hi? Feel free to drop me an email at [manishkl543@gmail.com](mailto:manishkl543@gmail.com). I'm always open to exploring new opportunities and engaging in meaningful discussions
