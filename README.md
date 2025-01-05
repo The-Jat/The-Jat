@@ -44,7 +44,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
+<!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mine Introduction to the C++ Compiler...  
 
 ```c++
@@ -99,6 +99,7 @@ Frameworks: Angular Laravel
 Current Focus: On OS Development
 Fun Fact: I am from Haryana (IN)!
 ```
+-->
 
 ### 📊 Github Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-jat&show_icons=true&locale=en&layout=compact" alt="the-jat" /></p>
