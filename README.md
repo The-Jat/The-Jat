@@ -18,7 +18,7 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2Z3NoeHluNGxmZnk2dzRqeGVhYTJpczhiOHAwcGFsaTM2aDFvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="230" height="200" alt="Banner">
 
 - 🔭 I’m currently working on [TheTaaJ](https://github.com/The-Jat/TheTaaJ)
-- 🌱 I’m currently learning **OS Development**
+- 🌱 I’m currently working on **OS Development**
 - 📝 I regularly write articles on [www.thejat.in](www.thejat.in)
 - 📫 How to reach me **manishkl543@gmail.com**
 - 📄 Know about my experiences [https://thejat.in/resume](https://thejat.in/resume)
