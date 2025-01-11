@@ -9,7 +9,7 @@
 
 <p align="center">
     <em>
-        <strong>Software Engineer</strong>
+        <strong>Software Developer</strong>
 <!--         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
     </em>
 </p>
