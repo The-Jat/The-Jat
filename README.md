@@ -106,7 +106,17 @@ Fun Fact: I am from Haryana (IN)!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&locale=en" alt="the-jat" /></p>
 
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-jat&" alt="the-jat" /></p>
+-->
+
+<!--
+<p>
+    <img align="center" src="https://streak-stats.demolab.com/?user=the-jat&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=the-jat" alt="GitHub Streak" /></a>
+
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/The-Jat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manish-kala-46a845139" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
