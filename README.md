@@ -7,7 +7,9 @@
 <!-- Profile Views Addins -->
 <img src="https://komarev.com/ghpvc/?username=the-jat&label=Profile%20views&color=0e75b6&style=flat" alt="the-jat"/>
 
+<!--
 > “Good code is its own best documentation.” — *Steve McConnell*
+-->
 
 <p align="center">
     <em>
