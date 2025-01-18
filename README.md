@@ -4,18 +4,19 @@
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
 
+> “Before software can be reusable, it first has to be usable.” — *Anonymous*
+
 <!-- Profile Views Addins -->
 <img src="https://komarev.com/ghpvc/?username=the-jat&label=Profile%20views&color=0e75b6&style=flat" alt="the-jat"/>
 
-
-> “Before software can be reusable, it first has to be usable.” — *Anonymous*
-
+<!--
 <p align="center">
     <em>
         <strong>Software Developer</strong>
-<!--         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
+         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </em>
 </p>
+-->
 
 <!-- Binary gif -->
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2Z3NoeHluNGxmZnk2dzRqeGVhYTJpczhiOHAwcGFsaTM2aDFvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="230" height="200" alt="Banner">
