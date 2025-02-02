@@ -1,4 +1,6 @@
-<h2>
+<!-- Profile Views Addins -->
+<img src="https://komarev.com/ghpvc/?username=the-jat&label=Profile%20views&color=0e75b6&style=flat" alt="the-jat"/>
+<h2 align="center">
     <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> -->
     Hey there 👋, Manish Chaudhary here!
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
@@ -6,8 +8,6 @@
 
 > “Before software can be reusable, it first has to be usable.” — *Anonymous*
 
-<!-- Profile Views Addins -->
-<img src="https://komarev.com/ghpvc/?username=the-jat&label=Profile%20views&color=0e75b6&style=flat" alt="the-jat"/>
 
 <!--
 <p align="center">
@@ -26,7 +26,7 @@
 - 📝 I regularly write articles on [www.thejat.in](www.thejat.in)
 - 📫 How to reach me **manishkl543@gmail.com**
 - 📄 Know about my experiences [https://thejat.in/resume](https://thejat.in/resume)
-- ⚡ Fun fact **I am from Haryana**
+- ⚡ Fun fact **I am from Haryana**📍
 
 
 ### 💻 Technologies & Tools I Use
