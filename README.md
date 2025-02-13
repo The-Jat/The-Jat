@@ -121,7 +121,9 @@ Fun Fact: I am from Haryana (IN)!
 </p>
 -->
 
+<!--
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=the-jat" alt="GitHub Streak" /></a>
+-->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat" alt="GitHub Streak" />
 
 
