@@ -131,7 +131,7 @@ Fun Fact: I am from Haryana (IN)!
 -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat" alt="GitHub Streak" />
 
-<h3>Where to find me</h3>
+### Where to find me
 <p><a href="https://github.com/The-Jat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manish-kala-46a845139" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
