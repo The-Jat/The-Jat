@@ -26,7 +26,9 @@
 - 📝 I regularly write articles on [www.thejat.in](www.thejat.in)
 - 📫 How to reach me **manishkl543@gmail.com**
 - 📄 Know about my experiences [https://thejat.in/resume](https://thejat.in/resume)
+<!--
 - ⚡ Fun fact **I am from Haryana**📍
+-->
 
 
 ### 💻 Technologies & Tools I Use
