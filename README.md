@@ -23,7 +23,7 @@
 ### 💫 About Me
 - 🔭 I’m currently working on [TheTaaJ](https://github.com/The-Jat/TheTaaJ)
 - 🌱 I’m currently learning **OS Development && Low Level Development**
-- 📝 I regularly write articles on [www.thejat.in](www.thejat.in)
+- 📝 I regularly write articles on [thejat.in](https://www.thejat.in)
 - 📫 How to reach me **manishkl543@gmail.com**
 - 📄 Know about my experiences [resume](https://thejat.in/resume)
 <!--
