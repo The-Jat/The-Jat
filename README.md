@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **OS Development && Low Level Development**
 - 📝 I regularly write articles on [www.thejat.in](www.thejat.in)
 - 📫 How to reach me **manishkl543@gmail.com**
-- 📄 Know about my experiences [https://thejat.in/resume](https://thejat.in/resume)
+- 📄 Know about my experiences [resume](https://thejat.in/resume)
 <!--
 - ⚡ Fun fact **I am from Haryana**📍
 -->
