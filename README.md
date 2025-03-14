@@ -113,7 +113,7 @@ Fun Fact: I am from Haryana (IN)!
 ```
 -->
 
-### Projects & Portfolio
+### 🚀 Projects & Portfolio
 
 Here are some projects I've been working recently:
 
