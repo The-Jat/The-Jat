@@ -113,6 +113,15 @@ Fun Fact: I am from Haryana (IN)!
 ```
 -->
 
+### Projects & Portfolio
+
+Here are some projects I've been working recently:
+
+- **[TheTaaJ](https://github.com/TheJaat/TheTaaJ):** A hobby OS in development.
+- **[TheBuilder](https://github.com/TheJaat/TheBuilder):** A simple build system.
+
+Feel free to explore my repositories for more details!
+
 ### 📊 Github Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-jat&show_icons=true&locale=en&layout=compact" alt="the-jat" /></p>
 
