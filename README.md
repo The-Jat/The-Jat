@@ -153,4 +153,3 @@ Feel free to explore my repositories for more details!
 </p>
 
 Got an exciting project 🚀, a collaboration idea 🤝, or just want to say hi 👋? Feel free to drop me an email at [manishkl543@gmail.com](mailto:manishkl543@gmail.com). I'm always open to exploring new opportunities 🌟 and engaging in meaningful discussions 💬.
-
