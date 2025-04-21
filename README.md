@@ -5,8 +5,9 @@
     Hey there 👋, Manish Chaudhary here!
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
-
+<!--
 > “Before software can be reusable, it first has to be usable.” — *Anonymous*
+    -->
 <!--
 <p align="center">
     <em>
