@@ -146,10 +146,10 @@ Here are some projects I've been working recently:
 
 ### 👋 Where to Find Me
 <p align="center">
-  <a href="https://github.com/The-Jat" target="_blank">
+  <a href="https://github.com/The-Jat" target="_blank" rel="noopener noreferrer">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/manish-kala-46a845139" target="_blank">
+  <a href="https://www.linkedin.com/in/manish-kala-46a845139" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
