@@ -146,7 +146,7 @@ Here are some projects I've been working recently:
 -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat" alt="GitHub Streak" />
 
-### 👋 Where to Find Me
+### 🌍 Where to Find Me
 <p align="center">
   <a href="https://github.com/The-Jat" target="_blank" rel="noopener noreferrer">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
