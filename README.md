@@ -7,7 +7,9 @@
 </h2>
 
 
+<!--
 > “Before software can be reusable, it first has to be usable.” — *Anonymous*
+-->
 
 <!--
 <p align="center">
