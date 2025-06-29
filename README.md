@@ -144,7 +144,11 @@ Here are some projects I've been working recently:
 <!--
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=the-jat" alt="GitHub Streak" /></a>
 -->
+
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat" alt="GitHub Streak" />
+-->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat&timestamp=NOW" alt="GitHub Streak" />
 
 ### 🌍 Where to Find Me
 <p align="center">
