@@ -30,7 +30,7 @@
 -->
 - 📝 I regularly write articles on [thejat.in](https://www.thejat.in)
 - 📫 How to reach me **manishkl543@gmail.com**
-- 📄 Know about my experiences [resume](https://thejat.in/resume)
+- 📄 Know about my experiences [resume](https://resume.thejat.in)
 - 💼 [Portfolio](https://the-jat.github.io/portfolio/)
 
 <!--
