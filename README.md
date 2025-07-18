@@ -37,7 +37,6 @@
 - ⚡ Fun fact **I am from Haryana**📍
 -->
 
-
 ### 💻 Technologies & Tools I Use
 
 &nbsp;&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
