@@ -18,7 +18,6 @@
     </em>
 </p>
 -->
-
 <!-- Binary gif -->
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2Z3NoeHluNGxmZnk2dzRqeGVhYTJpczhiOHAwcGFsaTM2aDFvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="230" height="200" alt="Banner">
 
@@ -59,7 +58,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 &nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-
 
 <!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mine Introduction to the C++ Compiler...  
