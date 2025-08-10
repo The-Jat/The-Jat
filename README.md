@@ -105,7 +105,6 @@ int main() {
     manish.printInfo();
     return 0;
 }
-
 // Output
 Name: Manish Chaudhary
 Code: C C++ Assembly PHP Javascript 
