@@ -129,11 +129,6 @@ Here are some projects I've been working recently:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&locale=en" alt="the-jat" /></p>
 
-<!--
-<p>
-    <img align="center" src="https://streak-stats.demolab.com/?user=the-jat&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
--->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat&timestamp=NOW" alt="GitHub Streak" />
 
