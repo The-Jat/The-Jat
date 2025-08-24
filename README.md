@@ -130,8 +130,10 @@ Here are some projects I've been working recently:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&locale=en" alt="the-jat" /></p>
 
-
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat&timestamp=NOW" alt="GitHub Streak" />
+-->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat&theme=dark&cache_seconds=1800" />
 
 ### 🌍 Where to Find Me
 <p align="center">
