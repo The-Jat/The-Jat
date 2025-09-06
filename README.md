@@ -6,10 +6,16 @@
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
 
+<!--
 > “Before software can be reusable, it first has to be usable.” — *Anonymous*
+-->
+
+> "You dont't need to be great to start. But, you do need to start to become greate." - *Anonymous*
+
 <!--
 > "If you’re not embarrassed by the first version of your product, you’ve launched too late." - *Reid Hoffman (LinkedIn founder)*
 -->
+
 <!--
 <p align="center">
     <em>
