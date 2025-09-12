@@ -128,7 +128,6 @@ Here are some projects I've been working recently:
 - **[TheTaaJ](https://github.com/TheJaat/TheTaaJ):** A hobby OS in development.
 - **[TheBuilder](https://github.com/TheJaat/TheBuilder):** A simple build system.
 
-
 🔍 Feel free to explore my repositories for more cool stuff — I'm always hacking on something interesting!
 
 ### 📊 Github Stats
