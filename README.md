@@ -132,15 +132,32 @@ Here are some projects I've been working recently:
 🔍 Feel free to explore my repositories for more cool stuff — I'm always hacking on something interesting!
 
 ### 📊 Github Stats
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-jat&show_icons=true&locale=en&layout=compact" alt="the-jat" /></p>
+-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-jat&layout=compact&theme=dark&hide_border=true)
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&locale=en" alt="the-jat" /></p>
+-->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-jat&show_icons=true&theme=dark&hide_border=true)
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat&timestamp=NOW" alt="GitHub Streak" />
 -->
 
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-jat&cache_seconds=1800" alt="GitHub Streak" />
+-->
+
+<!--
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the-jat)
+-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=the-jat&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!--
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=the-jat&theme=dark)](https://git.io/streak-stats)
+-->
+
 
 ### 🌍 Where to Find Me
 <p align="center">
