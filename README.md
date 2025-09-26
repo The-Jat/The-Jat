@@ -154,9 +154,6 @@ Here are some projects I've been working recently:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the-jat)
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=the-jat&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<!--
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=the-jat&theme=dark)](https://git.io/streak-stats)
--->
 
 
 ### 🌍 Where to Find Me
