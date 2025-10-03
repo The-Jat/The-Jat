@@ -123,7 +123,6 @@ Fun Fact: I am from Haryana (IN)!
 -->
 
 ### 🚀 Projects & Portfolio
-
 Here are some projects I've been working recently:
 
 - **[TheTaaJ](https://github.com/TheJaat/TheTaaJ):** A hobby OS in development.
