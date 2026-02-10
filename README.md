@@ -33,9 +33,6 @@
 - 📄 Know about my experiences [resume](https://resume.thejat.in)
 - 💼 [Portfolio](https://the-jat.github.io/portfolio/)
 
-<!--
-- ⚡ Fun fact **I am from Haryana**📍
--->
 
 ### 💻 Technologies & Tools I Use
 
